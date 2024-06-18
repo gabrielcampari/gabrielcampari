@@ -6,9 +6,9 @@ Seja bem-vindo ao meu Github! <img src="https://user-images.githubusercontent.co
 
 I'm a veteran computer science student, I work as an intern in the development area. I focus on backend and web development.
 
-* 🌍  I'm based in From São Paulo - Brasil
+* 🌍  I'm From São Paulo - Brasil
 * 🧠  I'm learning Cloud Computing & TypeScript
-* 🤝  I'm open to collaborating on Interested in large-scale projects that can change lives
+* 🤝  I'm open to collaborating and interested on large-scale projects that can change lives
 
 ##
 
