@@ -8,7 +8,7 @@ I'm a veteran computer science student, I work as an intern in the development a
 
 * 🌍  I'm From São Paulo - Brasil
 * 🧠  I'm learning Cloud Computing & TypeScript
-* 🤝  I'm open to collaborating and interested on large-scale projects that can change lives
+* 🤝  I'm open to collaborating and interested on large-scale projects that can change lifes
 
 ##
 
