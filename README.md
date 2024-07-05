@@ -29,12 +29,18 @@ I'm a veteran computer science student, I work as an intern in the development a
 
 <p align="left"> <a href="https://www.github.com/gabrielcampari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabriel-campari-correia/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/24086951/gabriel-campari-correia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gabrielcampari"><img src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="gabrielcampari's GitHub stats" /></a>
-
+<div> 
+ <a href="http://www.github.com/gabrielcampari">
+ <center> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="gabrielcampari's GitHub stats" /></a>
+ </center>
+ <center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampari&layout=compact&langs_count=7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true"/> 
+ </center>
+</div>
+  
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
