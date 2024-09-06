@@ -7,7 +7,7 @@ Welcome to my Github! <img src="https://user-images.githubusercontent.com/183505
 I'm a veteran computer science student, I work as an intern in the development area. I focus on backend and web development.
 
 * 🌍  I'm From São Paulo - Brasil
-* 🧠  I'm learning Network & TypeScript
+* 🧠  I'm learning Hardware Hacking & TypeScript
 * 🤝  I'm open to collaborating and interested on large-scale projects that can change lifes
 
 ##
