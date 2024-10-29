@@ -4,11 +4,12 @@ Welcome to my Github! <img src="https://user-images.githubusercontent.com/183505
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Campari!;Enjoy+your+stay+:\))](https://git.io/typing-svg)
 -------------------------
 
-I'm a veteran computer science student, I work as an intern in the development area. I focus on backend and web development.
+I'm a veteran computer science student, I work as an intern in the development area. I work on backend and web development and focus in CyberSecurity.
 
 * 🌍  I'm From São Paulo - Brasil
-* 🧠  I'm learning Hardware Hacking & NextJS
+* 🧠  I'm learning now Hardware Hacking & Kali Linux
 * 🤝  I'm open to collaborating and interested on large-scale projects that can change lifes
+* 💻  Currently using Kali Linux and Windows 11
 
 ##
 
