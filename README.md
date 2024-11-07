@@ -4,7 +4,7 @@ Welcome to my Github! <img src="https://user-images.githubusercontent.com/183505
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Campari!;Enjoy+your+stay+:\))](https://git.io/typing-svg)
 -------------------------
 
-I'm a veteran computer science student, I work as an intern in the development area. I work on backend and web development and focus in CyberSecurity.
+I am a veteran computer science student, working as an intern in the development area. I work with backend and web development, but I study and focus on migrating to Cybersecurity.
 
 * 🌍  I'm From São Paulo - Brasil
 * 🧠  I'm learning now Hardware Hacking & Kali Linux
