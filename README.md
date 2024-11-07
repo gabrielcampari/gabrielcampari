@@ -35,7 +35,7 @@ I am a veteran computer science student, working as an intern in the development
 <div> 
  <a href="http://www.github.com/gabrielcampari">
  <center> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="gabrielcampari's GitHub stats" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="gabrielcampari's GitHub stats" /></a>
  </center>
  <center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampari&layout=compact&langs_count=7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true"/> 
