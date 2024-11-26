@@ -7,7 +7,7 @@ Welcome to my Github! <img src="https://user-images.githubusercontent.com/183505
 I am a veteran computer science student, working as an intern in the development area. I work with backend and web development, but I study and focus on migrating to Cybersecurity.
 
 * 🌍  I'm From São Paulo - Brasil
-* 🧠  I'm learning now Hardware Hacking & Kali Linux
+* 🧠  I'm learning now CyberSecurity and React.js
 * 🤝  I'm open to collaborating and interested on large-scale projects that can change lifes
 * 💻  Currently using Kali Linux and Windows 11
 
