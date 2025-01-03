@@ -32,7 +32,7 @@ I am a veteran computer science student, working as an intern in the development
 ### My GitHub Stats:
 
 <div> 
- <a href="http://www.github.com/gabrielcampari">
+ <a href="https://github.com/gabrielcampari">
  <center> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="gabrielcampari's GitHub stats" /></a>
  </center>
