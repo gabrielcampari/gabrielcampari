@@ -8,7 +8,7 @@ I am a veteran computer science student, working as an intern in the development
 
 * 🌍  I'm From São Paulo - Brasil
 * 🧠  I'm learning now CyberSecurity and React.js
-* 🤝  I'm open to collaborating and interested on large-scale projects that can change lifes
+* 🤝  I am open to collaboration and interested in large-scale projects that can change lives
 * 💻  Currently using Ubuntu 24.04 and Windows 11
 
 ##
