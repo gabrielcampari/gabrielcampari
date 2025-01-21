@@ -1,4 +1,4 @@
-Welcome to my Github! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Texto Alternativo" width="50"  align="center"/>
+Welcome to my Github profile! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Texto Alternativo" width="50"  align="center"/>
 ================================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Campari!;Enjoy+your+stay+:\))](https://git.io/typing-svg)
