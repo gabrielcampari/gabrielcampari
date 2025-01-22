@@ -4,7 +4,7 @@ Welcome to my Github profile! <img src="https://user-images.githubusercontent.co
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Campari!;Enjoy+your+stay+:\))](https://git.io/typing-svg)
 -------------------------
 
-I am an experienced computer science student currently interning in software development. My expertise lies in backend and web development, while I actively study and focus on transitioning into the field of cybersecurity.
+I am an experienced computer science student, currently interning in software development. My expertise lies in backend and web development, while actively studying and focusing on transitioning into the cybersecurity field.
 
 * 🌍  I'm From São Paulo - Brasil
 * 🧠  I'm learning now CyberSecurity and React.js
