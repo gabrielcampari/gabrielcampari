@@ -13,7 +13,7 @@ I am an experienced computer science student, currently interning in software de
 
 ##
 
-### Contacts:
+### Contact:
 <div>
  <a href = "mailto:camparicorreia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
