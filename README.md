@@ -48,9 +48,3 @@ I am an experienced computer science student, currently interning in software de
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/gabrielcampari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-
-<!-- COMMENTS --> 
-
-<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a> --> 
-<!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> -->
-<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> </a>-->
