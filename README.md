@@ -34,7 +34,7 @@ I am an experienced computer science student, currently interning in software de
 <div> 
  <a href="https://github.com/gabrielcampari">
  <center> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&theme=midnight-purple alt="GitHub Stats" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampari&show_icons=true&theme=midnight-purple" alt="GitHub Stats" /></a>
  </center>
  <center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampari&layout=compact&theme=midnight-purple"/> 
