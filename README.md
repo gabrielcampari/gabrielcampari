@@ -5,7 +5,7 @@
 I am an experienced computer science student, currently interning in software development. My expertise lies in backend and web development, while actively studying and focusing on transitioning into the CyberSecurity!
 
 - 🌍 **I'm from:** São Paulo - Brasil  
-- 🧠 **Currently learning:** Pentest and Network onboarding  
+- 🧠 **Currently learning:** Pentest automation and Azure
 - 🤝 **Open to collaboration:** Interested in large-scale projects that can change lives  
 - 💻 **Current setup:** Ubuntu 24.04 and Windows 11  
 
