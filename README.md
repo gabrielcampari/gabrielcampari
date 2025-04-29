@@ -1,5 +1,4 @@
-# Welcome to my Github profile! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome Gif" width="50" align="center"/>
-
+# Welcome to my Github profile! <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" alt="Welcome Gif" width="100" align="center"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Campari!;Enjoy+your+stay+:\))](https://git.io/typing-svg)
 
 I'm an experienced computer science student currently interning in software development. My specialty is in backend and web development, while actively studying and focusing on the transition to cybersecurity!
@@ -109,3 +108,4 @@ I'm an experienced computer science student currently interning in software deve
  <a href="https://www.buymeacoffee.com/gabrielcampari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee"></a>
 </div>
 
+<!-- https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif -->
